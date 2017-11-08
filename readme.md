@@ -217,7 +217,7 @@ const predicate = (a) => a > 2;
 ```
 
 ## Contratos
-Um contrato especifica as obriagaçes e garantias do comportamento de uma função ou expressão em tempo de execução. Funciona como um conjunto de regras que são experadas de uma certa entrada e saída de uma função ou expressão, erros são geralmente reportados quando um contrato é violado
+Um contrato especifica as obrigações e garantias do comportamento de uma função ou expressão em tempo de execução. Funciona como um conjunto de regras que são esperadas de uma certa entrada ou saída de uma função ou expressão, erros são geralmente reportados quando um contrato é violado
 
 ```js
 // Definimos o contrato: input tem que ser do tipo number
